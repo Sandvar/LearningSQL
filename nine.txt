@@ -1,0 +1,23 @@
+what is a database? 
+
+- Any collection of Data with organization
+
+For Example: a phone book
+Find a phone number- Easy if you know the name
+
+What about for everyone with the same first name? 
+
+harder! 
+
+find eveeryone with a 3 letter name
+
+- A database must also requires have a way to find a way to add and remove and interact 
+
+
+A database just is the phonebook 
+	A DBMS (database Management System) lets you act on the database
+	
+
+		DBMS Examples:
+		PostgreSQL, MySQL, Oracle Database, SQLite
+		
