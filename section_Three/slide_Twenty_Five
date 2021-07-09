@@ -1,0 +1,23 @@
+TABLES HOLD THE DATA! 
+
+"a collection of related data held in a structured format within a database"
+
+Broken down
+
+A collection of related data.
+
+Data held in a structured format
+Data held in a structure within a database. 
+
+
+
+Quick example using cats 
+
+
+NAME 	|		BREED		|	AGE		|	<- Columns (headers), 
+Blue	|	Scottish Fold	|	1		|	<-Rows 
+rocket	|	Persian 		|	3		|	<-Rows
+monty	|	Tabby			|	10		|	<-Rows
+sam		|	Munchkin		|	5		|	<-
+
+

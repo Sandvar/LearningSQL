@@ -1,0 +1,47 @@
+THE IMPORTANCE OF DATA TYPES
+
+THINK, OOP- Declaring and Casting Variables. 
+
+NAME 	|		BREED		|	AGE				|	
+Blue	|	Scottish Fold	|	1				|	(eg.  age*7 for years = 1*7= 7)
+Rocket	|	Persian 		|	3				|	
+Monty	|	Tabby			|	ten				|	(age*ten= NAN)
+Sam		|	Munchkin		|	I am yung cat	|	
+
+data types: a little bit different 
+
+INT
+SMALLINT
+TINYINT
+MEDIUMINT
+BIGINT
+DECIMAL
+NUMERIC
+FLOAT
+DOUBLE
+BIT
+
+or String types
+
+CHAR
+VARCHAR
+BINARY
+VARBINARY
+BLOB
+TINYBLOB
+MEDIUMBLOB
+LONGBLOB
+TEXT
+TINYTEXT
+MEDIUMTEXT
+LONTEXT
+ENUM
+
+
+Date Types
+DATE
+DATETIME
+TIMESTAMP
+TIME
+YEAR
+
