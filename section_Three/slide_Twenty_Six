@@ -10,7 +10,7 @@ Sam		|	Munchkin		|	I am yung cat	|
 
 data types: a little bit different 
 
-INT
+INT = value of 4294967295 -> 4294967295
 SMALLINT
 TINYINT
 MEDIUMINT
@@ -23,8 +23,8 @@ BIT
 
 or String types
 
-CHAR
-VARCHAR
+CHAR - can only be a matching 8bit length word.-> a,b,c,d,e but not aye, beee, se, deae, ee (locked memory space. therefore immovable object. )
+VARCHAR - VARIABLE LENGTH STRING -> can be "bean" can be "theCatBeanKing" as long as between 1 and 255 (8 bit's maximum, variable memory length) 
 BINARY
 VARBINARY
 BLOB
