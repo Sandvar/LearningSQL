@@ -1,3 +1,0 @@
-sql is the language, and MY SQL Is the interface
-
-But when you write SQL, you have 

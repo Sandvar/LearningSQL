@@ -1,0 +1,1 @@
+Username (varchar(15))	|	Tweet	 varchar(140)|	likes (int)	|	ID	 (int)

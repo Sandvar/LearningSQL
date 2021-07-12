@@ -1,0 +1,7 @@
+sql is the language, and MY SQL Is the interface
+
+But when you write SQL, you have to write things a specific way.
+
+PostgreSQL and MYsql write SELECT FROM TABLE the exact same way
+
+
