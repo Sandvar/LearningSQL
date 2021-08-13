@@ -1,4 +1,4 @@
-s
+
 Creating Databases Code
 Start the CLI:
 
